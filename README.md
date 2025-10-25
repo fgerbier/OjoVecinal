@@ -18,7 +18,7 @@
 
 ## 💻 Tecnologías utilizadas
 
-- **Frontend**: HTML, CSS, Tailwind CSS, React  
+- **Frontend**: HTML, CSS, Tailwind CSS
 - **Backend**: Laravel (PHP)  
 - **Base de datos**: MySQL  
 - **Geolocalización**: API de Google Maps o Leaflet  
